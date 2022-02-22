@@ -1,4 +1,4 @@
-# Quantum Machine Learning Cafe
+# Quantum Machine Learning Caffe
 This cafe is an informal meeting for people interested in learning / exchanging ideas within the field of quantum machine learning. 
 
 ### Time: Monday, 5:30pm EST, bimonthly. 
