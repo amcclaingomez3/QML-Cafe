@@ -34,7 +34,7 @@ Abigail McClain Gomez -- Harvard Physics -- amcclain@g.harvard.edu
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
     
     <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Please provide a paper and/or speak suggestion." required=""></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="Please provide a suggestion for a paper to cover and/or speaker to present." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
