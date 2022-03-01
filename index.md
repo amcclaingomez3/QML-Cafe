@@ -26,13 +26,13 @@ Abigail McClain Gomez -- Harvard Physics -- amcclain@g.harvard.edu
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/meqnkarq" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="name">Name</label><br>
-    <input type="text" name="name" id="name" placeholder="First and Last" required="">
+    <input type="text" name="name" id="name" placeholder="First and Last" required=""><br>
     <label for="affiliation">Affiliation</label><br>
-    <input type="text" name="affiliation" id="affiliation" placeholder="E.g. Harvard" required="">
+    <input type="text" name="affiliation" id="affiliation" placeholder="E.g. Harvard" required=""><br>
     <label for="email-address">Email Address</label><br>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required=""><br>
     <label for="message">Message</label><br>
-    <textarea rows="5" name="message" id="message" placeholder="Please provide a suggestion for a paper to cover and/or speaker to present." required=""></textarea>
+    <textarea rows="5" name="message" id="message" placeholder="Please provide a suggestion for a paper to cover and/or speaker to present." required=""></textarea><br>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
