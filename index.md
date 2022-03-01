@@ -22,8 +22,35 @@ Abigail McClain Gomez -- Harvard Physics -- amcclain@g.harvard.edu
 
 
 ### Paper Suggestion Box:
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/meqnkarq" method="post">
-  #stylized input{
+
+/* ----------- My Form ----------- */
+.myform{
+    margin:0 auto;
+    padding:14px;
+}
+#stylized{
+    border-width:1px;
+    border-style:solid;
+    border-color:#b7ddf2;
+    background:#ebf4fb;
+}
+#stylized h1 {
+    font-size:14px;
+    font-weight:bold;
+    margin-bottom:8px;
+    border-width:1px;
+    border-style:solid;
+    border-color:#b7ddf2;
+    padding-bottom:10px;
+}
+#stylized label{
+    display:block;
+    font-size:11px;
+    font-weight:bold;
+    text-align:right;
+    float:left;
+}
+#stylized input{
     display: block;
     font-size:11px;
     padding:4px 2px;
@@ -31,6 +58,10 @@ Abigail McClain Gomez -- Harvard Physics -- amcclain@g.harvard.edu
     width:70px;
     margin:2px 0 20px 10px;
 }
+/* --------- End of Form --------- */
+
+<div id="stylized" class="myform">
+  <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/meqnkarq" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="name">Name</label>
     <input type="text" name="name" id="name" placeholder="First and Last" required="">
@@ -43,4 +74,5 @@ Abigail McClain Gomez -- Harvard Physics -- amcclain@g.harvard.edu
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="Submit">
-</form>
+  </form>
+</div>
