@@ -3,7 +3,7 @@ This caffe is an informal meeting for people interested in learning / exchanging
 
 ### Time: Monday, 5:30pm EST, bimonthly. 
 
-# Current Administrators: 
+### Current Administrators: 
 Sona Najafi | IBM Quantum | knajafi@g.harvard.edu
 
 Bobak Kiani | MIT Physics | bkiani@mit.edu
