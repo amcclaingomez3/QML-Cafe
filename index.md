@@ -5,7 +5,9 @@ This caffe is an informal meeting for people interested in learning / exchanging
 
 # Current Administrators: 
 Sona Najafi | IBM Quantum | knajafi@g.harvard.edu
+
 Bobak Kiani | MIT Physics | bkiani@mit.edu
+
 Abigail McClain Gomez | Harvard Physics | amcclain@g.harvard.edu
 
 ### Schedule: 
