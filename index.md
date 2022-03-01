@@ -1,7 +1,11 @@
 # Quantum Machine Learning Caffe
 This caffe is an informal meeting for people interested in learning / exchanging ideas within the field of quantum machine learning. 
 
-### Time: Monday, 5:30pm EST, bimonthly. 
+### Time: 
+Monday, 5:30pm EST, bimonthly. 
+
+### Location: 
+Zoom https://mit.zoom.us/j/91623118691
 
 ### Current Administrators: 
 Sona Najafi | IBM Quantum | knajafi@g.harvard.edu
@@ -14,5 +18,5 @@ Abigail McClain Gomez | Harvard Physics | amcclain@g.harvard.edu
 
 | Date           | Presenter(s)   | Paper / Topic   | Related Papers|
 | -------------- | ---------------------- | ------------------------------------------------ | -------------- | 
-| Mon. 03/14/22  | TBD | TBD | TBD |
+| Mon. 03/07/22  | TBD | TBD | TBD |
 | Mon. 02/28/22  | Round Table Discussion | Future directions and proposed papers to cover   | TBD | 
