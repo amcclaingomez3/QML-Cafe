@@ -8,11 +8,11 @@ Monday, 5:30pm EST, bimonthly.
 Zoom https://mit.zoom.us/j/91623118691
 
 ### Current Administrators: 
-Sona Najafi | IBM Quantum | knajafi@g.harvard.edu
+Sona Najafi -- IBM Quantum -- knajafi@g.harvard.edu
 
-Bobak Kiani | MIT Physics | bkiani@mit.edu
+Bobak Kiani -- MIT Physics -- bkiani@mit.edu
 
-Abigail McClain Gomez | Harvard Physics | amcclain@g.harvard.edu
+Abigail McClain Gomez -- Harvard Physics -- amcclain@g.harvard.edu
 
 ### Schedule: 
 
