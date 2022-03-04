@@ -17,7 +17,7 @@ Abigail McClain Gomez -- Harvard Physics -- amcclain@g.harvard.edu
 
 | Date           | Presenter(s)   | Paper / Topic   | Related Papers|
 | -------------- | ---------------------- | ------------------------------------------------ | -------------- | 
-| Mon. 03/07/22  | TBD | TBD | TBD |
+| Mon. 03/07/22  | Sina Zeytinoglu | Quantum Signal Processing and Optimal Hamiltonian Simulation using Rydberg Atoms | TBD |
 | Mon. 02/28/22  | Round Table Discussion | Future directions and proposed papers to cover   | TBD | 
 
 
