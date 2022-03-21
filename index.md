@@ -17,6 +17,7 @@ Abigail McClain Gomez -- Harvard Physics -- amcclain@g.harvard.edu
 
 | Date           | Presenter(s)   | Paper / Topic   | Related Papers|
 | -------------- | ---------------------- | ------------------------------------------------ | -------------- | 
+| Mon. 03/28/22  | Bobak Kiani | <a href="https://arxiv.org/abs/2203.05483"> projUNN: efficient method for training deep networks with unitary matrices </a> | TBD | 
 | Mon. 03/07/22  | Sina Zeytinoglu | Quantum Signal Processing and Optimal Hamiltonian Simulation using Rydberg Atoms | TBD |
 | Mon. 02/28/22  | Round Table Discussion | Future directions and proposed papers to cover   | TBD | 
 
