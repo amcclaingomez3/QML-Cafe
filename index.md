@@ -20,7 +20,7 @@ Abigail McClain Gomez -- Harvard Physics -- amcclain@g.harvard.edu
 | Mon. 04/25/22  | Roeland Wiersema | TBD | TBD |
 | Mon. 04/11/22  | Senrui Chen | <a href="https://arxiv.org/abs/2108.08488"> Quantum Advantages for Pauli Chain Estimation | TBD |
 | Mon. 03/28/22  | Bobak Kiani | <a href="https://arxiv.org/abs/2203.05483"> projUNN: efficient method for training deep networks with unitary matrices </a> | TBD | 
-| Mon. 03/07/22  | Sina Zeytinoglu | Quantum Signal Processing and Optimal Hamiltonian Simulation using Rydberg Atoms | TBD |
+| Mon. 03/07/22  | Sina Zeytinoglu | <a href="https://arxiv.org/abs/2201.04665"> Quantum Signal Processing and Optimal Hamiltonian Simulation using Rydberg Atoms | TBD |
 | Mon. 02/28/22  | Round Table Discussion | Future directions and proposed papers to cover   | TBD | 
 
 
